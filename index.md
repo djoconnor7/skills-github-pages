@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Blog
 ---
+
+## This is my blog
+It is an experiment.
+
